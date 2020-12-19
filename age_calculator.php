@@ -72,7 +72,7 @@
 
 	}
 	try{
-		$obj=new Age_verify('hyder');
+		$obj=new Age_verify('hello');
 		echo $obj->func();
 	}
 	catch (Exception $e){
